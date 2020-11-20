@@ -1,0 +1,635 @@
+5Q2/3P3k/1p3Rr1/1P2p2p/1n2P2P/4q3/6PK/8 w - - 11 60
+board material: -51.44247787610619
+evaluate moved piece: -30
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -40
+total: -101.44247787610618
+q3bk2/4np1Q/2p3B1/3pN2p/3P2p1/4P2P/6P1/6K1 w - - 8 47
+board material: -52.32522123893805
+evaluate moved piece: 0
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -40
+white sacrifice material: 20
+total: -72.32522123893804
+3r1b2/6p1/3k1N1R/3p4/2nPpPQ1/4P1KP/8/8 w - - 6 49
+board material: -56.67035398230088
+evaluate moved piece: 0
+pinned pieces: 20
+double attack: 20
+evaluate moved piece2: -20
+total: -36.67035398230088
+2nNQ2r/p4Rpk/4p3/3pP1Bp/7P/8/5bPK/8 w - - 3 32
+board material: -61.9358407079646
+evaluate moved piece: 10
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -20
+white sacrifice material: 20
+total: -51.9358407079646
+6k1/p2n3R/1n2bp2/4pN1B/4P3/2P2K2/3Q1PP1/8 w - - 1 39
+board material: -64.23672566371681
+evaluate moved piece: 10
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: 0
+total: -64.23672566371681
+3r3r/Npkbbppp/p1n5/4p3/5B2/2P3P1/P3PPBP/1R4K1 w - - 0 18
+board material: -54.42035398230089
+total: -54.42035398230089
+5k2/5P2/5K2/1p2P3/8/1p6/3p1P2/8 w - - 0 61
+board material: -14.236725663716813
+evaluate moved piece: 0
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: 0
+total: -14.236725663716813
+8/2R4p/pp3Rb1/6Pk/5P2/6K1/8/8 w - - 1 87
+board material: -35.400442477876105
+evaluate moved piece: -30
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -30
+white sacrifice material: 20
+total: -65.40044247787611
+6k1/3N1Nqp/b7/2p1Q3/Pp4PK/5p1P/1P3P2/8 w - - 5 44
+board material: -54.41150442477875
+evaluate moved piece: -40
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -40
+total: -114.41150442477874
+5Q1R/p2b3r/3P2p1/4N2k/1p6/6Pq/1r5P/6K1 w - - 1 48
+board material: -54.19911504424779
+evaluate moved piece: -10
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -20
+total: -64.19911504424779
+7k/3r4/7q/p3p3/1p5Q/1P6/P1P5/1K6 w - - 4 48
+board material: -35.36504424778761
+total: -35.36504424778761
+r6k/1pp3R1/3pP2p/p6r/n1P5/2B4P/1PK5/6R1 w - - 3 33
+board material: -47.070796460176986
+evaluate moved piece: -10
+pinned pieces: 20
+double attack: 20
+evaluate moved piece2: -10
+total: -27.070796460176986
+6k1/p3q2p/1p1nN3/3P2p1/2rn3Q/8/P5PP/5R1K w - - 0 35
+board material: -56.4358407079646
+total: -56.4358407079646
+8/k1K5/3N4/8/8/8/4B3/8 w - - 57 95
+board material: -22.488938053097343
+evaluate moved piece: -20
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -5
+total: -47.48893805309734
+r1R2b1k/pp5p/4Q3/1P6/4p1p1/3qB1P1/6PP/6K1 w - - 9 29
+board material: -56.70575221238938
+evaluate moved piece: -20
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -20
+total: -76.70575221238937
+3qb2r/pp3pk1/2p1pR1R/2PrN1P1/3P1Q1P/8/1P6/6K1 w - - 7 42
+board material: -70.30530973451326
+evaluate moved piece: -10
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -10
+total: -90.30530973451326
+8/8/8/p7/6N1/7p/5K2/7k w - - 2 70
+board material: -14.922566371681414
+total: -14.922566371681414
+7k/2R5/6r1/5K2/8/8/7p/8 w - - 0 69
+board material: -19.252212389380535
+evaluate moved piece: -40
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -50
+total: -109.25221238938053
+4R3/7k/4PR2/2pp1Pp1/4r3/3r2P1/5K2/8 w - - 3 64
+board material: -37.45353982300885
+evaluate moved piece: -30
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -30
+total: -77.45353982300885
+7k/3R4/6rK/5B2/2P5/8/8/8 w - - 0 49
+board material: -29.008849557522122
+evaluate moved piece: -5
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -10
+total: -54.008849557522126
+Q4rk1/3R2p1/pq2p3/7R/P7/8/8/7K w - - 9 51
+board material: -54.39159292035397
+evaluate moved piece: -40
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -30
+white sacrifice material: 20
+total: -104.39159292035397
+1k5r/5p2/p1Q5/6p1/2pr4/2P1PB2/3K3P/8 w - - 0 37
+board material: -42.962389380530965
+total: -42.962389380530965
+2r5/7k/p2p1b2/1p1qnN2/1P5p/P4P1R/7P/6QK w - - 0 35
+board material: -56.43362831858407
+evaluate moved piece: -10
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -40
+white sacrifice material: 20
+total: -66.43362831858407
+6k1/1p4p1/p3r1P1/2p5/8/2P5/K6q/3R4 w - - 0 40
+board material: -23.396017699115042
+total: -23.396017699115042
+4Qrk1/ppp3pp/1b3P2/8/4p3/2P3BP/PP3PK1/8 w - - 7 33
+board material: -49.597345132743364
+evaluate moved piece: 0
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -40
+total: -69.59734513274336
+3R4/4rk1p/6pP/8/1p6/1q2PpQ1/7K/8 w - - 3 47
+board material: -44.85619469026548
+evaluate moved piece: -40
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -30
+total: -94.85619469026548
+r5k1/1R4Bp/8/p7/5nPn/8/1P5P/3B2K1 w - - 1 33
+board material: -40.76548672566372
+evaluate moved piece: -5
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -5
+total: -30.76548672566372
+8/8/8/8/3K4/8/pQ6/3k4 w - - 15 73
+board material: -29.103982300884955
+evaluate moved piece: -40
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -80
+total: -159.10398230088495
+8/5Qbk/6p1/1p3p1p/5P1P/1PB3P1/6qK/8 w - - 0 35
+board material: -45.11946902654867
+evaluate moved piece: 0
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -40
+total: -65.11946902654867
+7R/5p2/6kp/4Q3/2q5/8/6PP/6NK w - - 9 48
+board material: -52.31858407079646
+evaluate moved piece: -10
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -20
+total: -62.31858407079646
+6Q1/4k3/1p4RP/5K2/1N1b1P2/P7/8/8 w - - 1 71
+board material: -54.69247787610619
+evaluate moved piece: 0
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -20
+total: -74.69247787610618
+6k1/1r6/4RKN1/8/8/8/8/8 w - - 25 74
+board material: -26.575221238938056
+evaluate moved piece: -30
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -30
+total: -66.57522123893806
+r7/p2n1p1k/2r1b1p1/q1Pp1pQ1/1p1B2p1/1P1B4/PK3P1P/4R3 w - - 2 26
+board material: -66.20575221238937
+evaluate moved piece: -20
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -20
+total: -86.20575221238937
+1rr3k1/4Q2p/8/2nPp3/4q1N1/2p4P/6P1/7K w - - 1 37
+board material: -42.47566371681416
+evaluate moved piece: 0
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -40
+total: -82.47566371681415
+2rB4/1p4pp/p2R4/4pp1k/2B1b3/2P5/2P4P/1K6 w - - 6 35
+board material: -40.74778761061947
+evaluate moved piece: -5
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -5
+total: -30.74778761061947
+2b5/1p6/2r1pkq1/3pNp2/3P1P2/Q7/3K4/8 w - - 0 71
+board material: -40.35619469026548
+evaluate moved piece: -40
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -40
+total: -100.35619469026548
+R7/3k4/4p3/R1KpPb2/8/2P5/r6p/8 w - - 6 54
+board material: -35.283185840707965
+evaluate moved piece: -30
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -30
+total: -95.28318584070797
+1nb2r2/4rpk1/p6R/1p1q4/4NQ2/8/1P4PP/7K w - - 1 28
+board material: -54.12610619469026
+evaluate moved piece: -20
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -10
+total: -84.12610619469027
+rn1r2k1/p4bpn/2p3Qp/2PpN3/8/1N5P/1P3PP1/6K1 w - - 0 27
+board material: -54.223451327433615
+evaluate moved piece: -40
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: 0
+total: -94.22345132743362
+8/2R5/7k/p4P2/2P1P2r/4r3/8/6RK w - - 5 46
+board material: -37.497787610619476
+total: -37.497787610619476
+3r3k/6pp/1qp1Q3/1P6/8/P2b1N1P/5bP1/4R2K w - - 1 33
+board material: -56.45353982300884
+evaluate moved piece: -20
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -10
+white sacrifice material: 20
+total: -46.45353982300884
+6Q1/4r1p1/1p2rp2/4Pk2/6R1/6BP/7K/8 w - - 2 47
+board material: -52.49778761061947
+evaluate moved piece: -20
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -20
+total: -72.49778761061947
+5k2/2R5/5N2/4PKp1/8/8/5p1P/8 w - - 2 51
+board material: -31.073008849557525
+evaluate moved piece: 0
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -10
+total: -51.073008849557525
+8/pbp5/1p1r4/1k1p1B2/8/2Q5/1PP2PrP/2K5 w - - 7 25
+board material: -45.09955752212389
+evaluate moved piece: -5
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -40
+total: -70.09955752212389
+8/5RRp/4k3/2Bpp1p1/3P2P1/2n1P2K/7P/8 w - - 2 37
+board material: -47.32743362831858
+evaluate moved piece: -10
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: 0
+total: -67.32743362831857
+r2b1r1k/1q1b1pRp/p2p1P1Q/np3pn1/3BP3/3B3P/PPP2P2/2K5 w - - 5 23
+board material: -70.50442477876105
+evaluate moved piece: -10
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -40
+white sacrifice material: 20
+total: -80.50442477876105
+r4r1k/1p1bnpR1/p2b3p/3P3q/3B4/1P1B1N1P/P4PP1/6K1 w - - 1 24
+board material: -54.24999999999999
+evaluate moved piece: 10
+pinned pieces: 20
+double attack: 20
+evaluate moved piece2: 10
+total: 5.750000000000007
+6k1/1p1n1R2/4R3/3p4/pP5P/P1r2Q1K/5P2/8 w - - 1 47
+board material: -61.170353982300874
+evaluate moved piece: -30
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -30
+total: -101.17035398230087
+1r2rk2/7Q/q5pb/n1pP2pp/6bP/P2P2P1/5PB1/4R1K1 w - - 4 36
+board material: -60.887168141592916
+total: -60.887168141592916
+5k2/1p3p1r/p1p1rN2/P3P3/8/8/2K3R1/8 w - - 0 53
+board material: -30.794247787610626
+evaluate moved piece: -10
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -10
+total: -50.79424778761063
+5k2/2R5/1p2K1Pn/p2N4/5p2/8/6r1/8 w - - 1 48
+board material: -28.64823008849558
+evaluate moved piece: 0
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -30
+white sacrifice material: 20
+total: -38.64823008849558
+6k1/2pR2Bp/2p3p1/1q3p2/1b6/8/4RP1P/K7 w - - 8 30
+board material: -42.663716814159294
+evaluate moved piece: -10
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -10
+total: -42.663716814159294
+4k3/4r1p1/1p1Q1RP1/p1p5/4P2R/P6q/6K1/8 w - - 1 55
+board material: -58.79424778761061
+evaluate moved piece: -30
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -30
+white sacrifice material: 20
+total: -108.7942477876106
+8/4R1rk/p1pp3r/1p6/n2B2R1/3P2K1/2P5/8 w - - 6 40
+board material: -42.66814159292035
+evaluate moved piece: -10
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -10
+total: -42.66814159292035
+2r3rk/p4p1p/1p2qP2/3Np3/4P3/1P3Q2/2P4R/1K6 w - - 3 41
+board material: -56.44247787610619
+evaluate moved piece: -10
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -40
+white sacrifice material: 20
+total: -86.44247787610618
+r7/1b2kp2/pq2P3/2b4Q/2pNP3/2P5/3N3P/7K w - - 2 33
+board material: -52.02876106194689
+evaluate moved piece: -40
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: 0
+total: -92.02876106194688
+4Q3/k4r2/2K5/8/8/8/8/8 w - - 35 92
+board material: -29.008849557522122
+evaluate moved piece: -80
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -80
+total: -169.00884955752213
+4R3/5Pk1/6pp/3r4/4P2P/8/P5PK/8 w - - 0 42
+board material: -30.292035398230087
+evaluate moved piece: 0
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -30
+total: -60.292035398230084
+8/5R2/6pk/P3Q2q/7p/3pN3/3K1P2/8 w - - 1 61
+board material: -52.296460176991154
+evaluate moved piece: -20
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: 0
+total: -82.29646017699116
+7k/5q2/3pnN1b/p3p3/1p2P1Q1/8/2P5/1K4R1 w - - 6 38
+board material: -52.12610619469026
+evaluate moved piece: -20
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -10
+white sacrifice material: 20
+total: -62.126106194690266
+R4Q2/5b2/3p1k2/4pP2/4P3/8/5qBK/8 w - - 4 52
+board material: -52.4646017699115
+evaluate moved piece: -20
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -20
+total: -72.4646017699115
+7r/p2p1pkp/qp1Npp2/1R5Q/P7/4K3/6PP/8 w - - 2 26
+board material: -54.30309734513274
+evaluate moved piece: -20
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -20
+total: -94.30309734513274
+7k/1p1r1pp1/2q3bp/2r5/P5RQ/6P1/5P2/6K1 w - - 0 39
+board material: -46.876106194690266
+total: -46.876106194690266
+6Q1/rr1k4/4R3/4p3/1q2P3/5P2/7P/7K w - - 1 42
+board material: -47.01769911504424
+evaluate moved piece: -40
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -30
+total: -117.01769911504424
+5R2/4k3/6p1/2K3p1/p3r3/2Q1P3/8/8 w - - 0 54
+board material: -42.88053097345133
+evaluate moved piece: -40
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -40
+total: -122.88053097345133
+5Q2/5R2/6p1/4n1kp/4q3/2P4P/8/6K1 w - - 3 53
+board material: -44.94469026548672
+evaluate moved piece: -40
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -30
+total: -94.94469026548671
+5R2/6kp/5pp1/3Q4/pB1p4/P5P1/5PKP/2q5 w - - 1 41
+board material: -56.89823008849557
+evaluate moved piece: -10
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -5
+total: -71.89823008849558
+2Q5/3Q4/5k2/8/8/3K4/8/8 w - - 3 74
+board material: -50.586283185840706
+evaluate moved piece: -80
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -80
+total: -220.5862831858407
+r4r2/pp2Qp2/6pb/3p1b2/q2P1kP1/7R/P4P2/6K1 w - - 4 29
+board material: -48.991150442477874
+evaluate moved piece: -40
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -40
+white sacrifice material: 20
+total: -108.99115044247787
+8/4bQ1R/2qp2pp/6k1/8/7P/4r1P1/7K w - - 3 43
+board material: -44.80309734513274
+total: -44.80309734513274
+8/8/1p6/k2Q4/2K5/8/3p4/8 w - - 0 77
+board material: -29.081858407079643
+total: -29.081858407079643
+2R2nk1/1p3rpp/p5q1/3Q4/1P1B1P2/P3P2P/8/6K1 w - - 3 33
+board material: -58.94247787610619
+total: -58.94247787610619
+4Q3/p7/b1pk4/3p4/2q2N2/7B/P4RK1/8 w - - 10 63
+board material: -57.530973451327434
+evaluate moved piece: 0
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: 0
+total: -37.530973451327434
+4k2r/1b3pp1/2pQp2n/2NpP2P/3P4/8/P1P2P1q/4K3 w - - 4 31
+board material: -49.11061946902655
+evaluate moved piece: -40
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -40
+total: -129.11061946902655
+4R2r/p3R3/6k1/1P1N2p1/3B1p2/1P3Pq1/6p1/6K1 w - - 4 38
+board material: -52.1570796460177
+evaluate moved piece: 10
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: 10
+total: -32.1570796460177
+4r3/2pq2Q1/pp2k3/8/3B4/1P1P3P/2P3P1/7K w - - 7 38
+board material: -47.31194690265487
+evaluate moved piece: -40
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: 0
+total: -87.31194690265487
+5Q2/2p4p/r2pNpk1/8/1n2P3/3q3P/6PK/8 w - - 3 35
+board material: -42.570796460176986
+evaluate moved piece: -40
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -40
+total: -122.57079646017698
+Q7/5K1k/3r4/6pp/7P/8/8/8 w - - 1 69
+board material: -31.176991150442475
+evaluate moved piece: -60
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: 0
+total: -91.17699115044248
+r1b1qk2/4bN1p/1n6/1ppPp2Q/2p1P3/2P3RP/2B2PP1/6K1 w - - 3 33
+board material: -68.28318584070796
+evaluate moved piece: 0
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -20
+white sacrifice material: 20
+total: -48.28318584070796
+8/p2krR1p/6p1/2p1Q3/2Pp4/KP6/7P/8 w - - 7 42
+board material: -47.26106194690265
+evaluate moved piece: -40
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -30
+total: -107.26106194690266
+7k/R5p1/2P3P1/5p2/3p1P1P/8/1K6/4q3 w - - 0 41
+board material: -27.96017699115044
+evaluate moved piece: -30
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -30
+total: -67.96017699115043
+8/p4p1n/1ppr4/3pN1pk/3P2b1/2P3K1/1P3P2/4R3 w - - 0 35
+board material: -35.14380530973452
+evaluate moved piece: -10
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -10
+total: -35.14380530973452
+4k3/6R1/p2K1R2/P3P3/3pr3/8/8/8 w - - 0 87
+board material: -35.38053097345133
+total: -45.38053097345133
+8/4R3/3Qr1p1/3p2k1/8/5K2/8/8 w - - 0 85
+board material: -40.690265486725664
+evaluate moved piece: -60
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -50
+total: -150.69026548672565
+r4k2/3r1pR1/b2Nn1p1/p2pP3/1p1B4/1q3NP1/3Q1PK1/7R w - - 1 28
+board material: -80.63053097345131
+evaluate moved piece: 10
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: 0
+white sacrifice material: 20
+total: -30.630530973451314
+3rr1Q1/6bp/p5k1/Pp3N2/1P1Bn3/2P4P/6PK/8 w - - 19 44
+board material: -54.56194690265486
+evaluate moved piece: -20
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -40
+white sacrifice material: 20
+total: -94.56194690265485
+2rqbnk1/1p2r1p1/4p1P1/p2pP1pQ/P2P4/2PB4/1P4P1/5RK1 w - - 0 31
+board material: -63.13053097345132
+evaluate moved piece: -20
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -10
+white sacrifice material: 20
+total: -83.13053097345133
+5r1k/p7/1p1p1N1q/8/6Q1/4r1Rp/2P1B2K/8 w - - 4 40
+board material: -57.34955752212389
+evaluate moved piece: 0
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: 10
+white sacrifice material: 20
+total: -27.349557522123888
+r2r2k1/1b1qn3/p3pbp1/2p1P1N1/8/2P5/1P3PPQ/4R1K1 w - - 0 29
+board material: -58.453539823008846
+evaluate moved piece: -20
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -20
+total: -98.45353982300884
+7k/R7/5KB1/5r2/8/8/8/8 w - - 6 61
+board material: -26.79646017699115
+evaluate moved piece: -25
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -30
+total: -81.79646017699115
+3Q4/4r1pk/5q2/8/P1B3R1/1p5P/5PPK/8 w - - 8 55
+board material: -56.84734513274336
+evaluate moved piece: -20
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: -20
+total: -96.84734513274336
+6k1/p1R2r1p/1p4qP/3Q4/5p1b/8/PP4P1/K7 w - - 2 39
+board material: -49.20575221238938
+evaluate moved piece: -30
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -30
+total: -89.20575221238937
+1n1k3r/1Qb2p2/1Bp1r3/1p1p1N1p/p3q1p1/8/PPP2PP1/2K4R w - - 14 32
+board material: -65.98451327433628
+evaluate moved piece: 0
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: 0
+total: -45.98451327433628
+3r1rk1/1p2np2/p3NqpQ/5P2/8/4p1R1/PP3P1P/7K w - - 1 34
+board material: -58.58185840707964
+total: -58.58185840707964
+5N2/8/1p5k/3bn3/3B2PK/5P2/8/8 w - - 1 40
+board material: -26.743362831858406
+evaluate moved piece: 15
+pinned pieces: 0
+double attack: 0
+evaluate moved piece2: 0
+white sacrifice material: 20
+total: 8.256637168141594
+rr4Q1/3k1q1Q/p1N1p3/3p4/8/4B1P1/6K1/8 w - - 1 33
+board material: -67.10619469026548
+evaluate moved piece: -20
+pinned pieces: 20
+double attack: 0
+evaluate moved piece2: -40
+white sacrifice material: 20
+total: -87.10619469026548
